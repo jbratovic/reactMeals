@@ -1,7 +1,7 @@
 # reactMeals
 
 =======
-
+For first usage in your CLI run `npm install` to install the dependencies in the local node_modules folder 
 Project was built using React. It's small app for ordering food, add meals to cart, write it to database etc. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
